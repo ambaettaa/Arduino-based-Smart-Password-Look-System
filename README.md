@@ -54,5 +54,6 @@ An Arduino-based smart door lock that uses a 4×3 keypad and a 16×2 LCD to auth
 
 ## Author
 
-**Amba**
+**Amba Etta**
 Computer Engineering Student
+Embeddes Systems Engineering
