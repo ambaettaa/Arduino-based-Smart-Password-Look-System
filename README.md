@@ -12,7 +12,7 @@ An Arduino-based smart door lock that uses a 4×3 keypad and a 16×2 LCD to auth
 - Red LED for incorrect password
 - Backspace function using '*'
 - Automatic door relocking
-- Audible feedback using buzzer
+- Audible feedback using speaker
 
 ## Components Used
 
@@ -22,7 +22,7 @@ An Arduino-based smart door lock that uses a 4×3 keypad and a 16×2 LCD to auth
 - SG90 Servo Motor
 - Red LED
 - Green LED
-- Active Buzzer
+- Active Speaker
 - Jumper Wires
 
 ## Software Used
